@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KotlinFeed</string>
+    <array name="image">
+        <item>http://google.com/image/Rock.png</item>
+        <item>http://google.com/image/Pop.png</item>
+        <item>http://google.com/image/Jazz.png</item>
+        <item>http://google.com/image/Sufi.png</item>
+        <item>http://google.com/image/Bollywood.png</item>
+        <item>http://google.com/image/Hollywood.png</item>
+    </array>
+</resources>
